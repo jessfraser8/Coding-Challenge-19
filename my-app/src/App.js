@@ -1,11 +1,12 @@
 // U09226075
-import './App.css';
 
+import './App.css';
+import Gallery from "./Gallery.js";
+
+// Set up app.
 function App() {
   return (
-    <div className="App">
-  
-    </div>
+    <Gallery/>
   );
 }
 
